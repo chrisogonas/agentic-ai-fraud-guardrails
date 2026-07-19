@@ -1,0 +1,17 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
